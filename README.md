@@ -75,3 +75,12 @@ java -jar auth-service/target/auth-service-1.0.0.jar
 | **SECURITY_ADMIN** | `security@example.com` | `security123` |
 | **DEVELOPER** | `developer@example.com` | `dev123` |
 | **VIEWER** | `viewer@example.com` | `viewer123` |
+
+
+Team Members:
+S Kishor Reddy(2400033131)
+Kothuri Dhanush(2400030733)
+Atmakur Jaswenth(2400030713)
+Bakka Venkata Sai Satya(2400030705)
+
+
